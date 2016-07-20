@@ -1,20 +1,59 @@
+h1 {
+	font-family: "Arial", sans-serif;
+	font-size: 50px;
+}
+
+header {
+	background-color: teal;
+	font-family: serif;
+	font-size: 1em;
+	font-weight: bold;
+	color: black;
+	line-height: 2em;
+	padding: 1px;
+	border-radius: 5%;	
+}
+
+header ul li {
+	list-style-type: none;
+}
+
+header ul li a {
+	text-decoration: none;
+}
+
+a:link {
+	color: black;
+	background-color: #ffdb4d;
+	border-radius: 50%;
+	padding: 5px;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: orange;
+}
+
 .water {
 	background-color: #ff6666;
 	font-family: "Georgia", serif;
 	font-size: 1em;
 	color: #006699;
 	line-height: 1.5em;
-	padding: .9px;
+	padding: 10px;
 	border-radius: 10%;
 }
 
 .hardscape {
-	background-color: #ffdb4d;
+	background-color: #ffdb40;
 	font-family: "Times New Roman", serif;
 	font-size: 1.25em;
 	color: #00b386;
 	line-height: 1.25em;
-	padding: 1px;
+	padding: 25px;
 	border-radius: 20%;
 }
 
@@ -24,7 +63,7 @@
 	font-size: 1.3em;
 	color: black;
 	line-height: 1em;
-	padding: 2px;
+	padding: 50px;
 	border-radius: 30%;
 }
 
@@ -34,7 +73,7 @@
 	font-size: 1.4em;
 	color: #ffdb4d;
 	line-height: .85em;
-	padding: 3px;
+	padding: 90px;
 	border-radius: 40%;
 }
 
@@ -44,6 +83,6 @@
 	font-size: 1.5em;
 	color: #ff6666;
 	line-height: .65em;
-	padding: 4px;
+	padding: 100px;
 	border-radius: 50%;
 }
