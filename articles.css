@@ -1,0 +1,49 @@
+.water {
+	background-color: #ff6666;
+	font-family: ;
+	font-size: ;
+	font-color: ;
+	line-height: ;
+	padding: ;
+	border-radius: 10%;
+}
+
+.hardscape {
+	background-color: #ffdb4d;
+	font-family: ;
+	font-size: ;
+	font-color: ;
+	line-height: ;
+	padding: ;
+	border-radius: 20%;
+}
+
+.fish {
+	background-color: #00b33c;
+	font-family: ;
+	font-size: ;
+	font-color: ;
+	line-height: ;
+	padding: ;
+	border-radius: 30%;
+}
+
+.plants {
+	background-color: #00b386;
+	font-family: ;
+	font-size: ;
+	font-color: ;
+	line-height: ;
+	padding: ;
+	border-radius: 40%;
+}
+
+.filters {
+	background-color: #006699;
+	font-family: ;
+	font-size: ;
+	font-color: ;
+	line-height: ;
+	padding: ;
+	border-radius: 50%;
+}
