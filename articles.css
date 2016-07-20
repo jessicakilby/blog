@@ -1,3 +1,35 @@
+header {
+	background-color: teal;
+	font-family: serif;
+	font-size: 1em;
+	font-weight: bold;
+	color: black;
+	line-height: 2em;
+	padding: 1px;
+	border-radius: 5%;	
+}
+header ul li {
+	list-style-type: none;
+}
+
+header ul li a {
+	text-decoration: none;
+}
+
+a:link {
+	color: black;
+	background-color: #ffdb4d;
+	border-radius: 25%
+}
+
+a:visited {
+	color: brown;
+}
+
+a:hover {
+	color: orange;
+}
+
 .water {
 	background-color: #ff6666;
 	font-family: "Georgia", serif;
